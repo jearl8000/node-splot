@@ -1,0 +1,22 @@
+{
+  "name": "node-splot",
+  "version": "0.0.0",
+  "description": "Scatterplots with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jearl8000/node-splot.git"
+  },
+  "author": "Jennifer Earl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jearl8000/node-splot/issues"
+  },
+  "homepage": "https://github.com/jearl8000/node-splot",
+  "dependencies": {
+    "express": "^4.8.2"
+  }
+}
